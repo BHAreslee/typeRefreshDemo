@@ -1,0 +1,16 @@
+PODS:
+  - MJRefresh (3.2.0)
+
+DEPENDENCIES:
+  - MJRefresh
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MJRefresh
+
+SPEC CHECKSUMS:
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+
+PODFILE CHECKSUM: d7f58e7429b39fa8df9f1fd9133db1c960fe9327
+
+COCOAPODS: 1.7.5

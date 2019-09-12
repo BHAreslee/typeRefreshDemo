@@ -1,0 +1,6 @@
+framework module Pods_BHRefresh {
+  umbrella header "Pods-BHRefresh-umbrella.h"
+
+  export *
+  module * { export * }
+}
